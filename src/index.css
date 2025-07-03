@@ -1,0 +1,23 @@
+@import "tailwindcss";
+@taiwind base;
+@tailwind utilities;
+@tailwind utilities;
+
+
+
+body{
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #111;
+}
+#tasklist::-webkit-scrollbar{
+  display: none;
+}
+input[type="date"]::-webkit-calendar-picker-indicator {
+  filter: invert(50%);
+  opacity: 1; /* Adjust for lighter effect */
+  cursor: pointer;
+}
+

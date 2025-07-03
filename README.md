@@ -85,7 +85,45 @@ Email: your-bhatiasanya1410@gmail.com
 
 ---
 
-## 📃 License
+## 🌐 Live Deployment
+
+🟢 The app is live here: [Employee Management System on Netlify](https://ornate-clafoutis-625f33.netlify.app/)
+
+
+
+---
+
+## 🔐 Login Credentials
+
+### 👑 Admin
+- **Email:** `admin@me.com`
+- **Password:** `123`
+
+> 📌 After login, **please refresh the page once** to ensure the Admin Dashboard loads properly.
+
+---
+
+### 👷‍♂️ Employees (5 preloaded)
+
+Each employee has the same password: `123`
+
+| Employee | Email                    |
+|----------|--------------------------|
+| 1        | `employee1@example.com`  |
+| 2        | `employee2@example.com`  |
+| 3        | `employee3@example.com`  |
+| 4        | `employee4@example.com`  |
+| 5        | `employee5@example.com`  |
+
+> Employees can log in using their email & password to view and manage their assigned tasks.
+
+---
+
+
+
+---
+
+
 
 This project is open source and available under the [MIT License](LICENSE).
 >>>>>>> 648d9e254cdb84b3def7c6dea91aef4dad906bd8

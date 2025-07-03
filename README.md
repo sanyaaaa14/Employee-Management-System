@@ -81,8 +81,7 @@ src/
 
 **Sanya Bhatia**  
 [LinkedIn](https://www.linkedin.com/in/sanyabhatia/)  
-Email: your-bhatiasanya1410@gmail.com
-
+Email: bhatiasanya1410@gmail.com
 ---
 
 ## 🌐 Live Deployment
